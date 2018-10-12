@@ -1,0 +1,22 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "iot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetrain096/IoT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweetrain096/IoT/issues"
+  },
+  "homepage": "https://github.com/sweetrain096/IoT#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
